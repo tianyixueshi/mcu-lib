@@ -1,1 +1,5 @@
 *.o
+/STM32/prj/Listings
+/STM32/prj/Objects
+/STM32/PRJ/Listings
+/STM32/PRJ/Objects
